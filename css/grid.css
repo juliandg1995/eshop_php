@@ -1,0 +1,55 @@
+body {
+    background: #edeff2;
+    color: #fff;
+}
+
+p { 
+    margin-bottom: 0;
+}
+
+.row {
+     margin-bottom: 20px;  /*Aplica un espaciado entre todas las filas */
+}
+
+header {
+    background: #232532;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+main article {
+    color: #000;
+    padding: 20px;
+    background: #fff; 
+}
+
+main article p {
+    margin-bottom: 20px;
+}
+
+aside {
+    /* background: #cac900; */
+    /* padding: 40px 20px; */
+    text-align: center;
+}
+
+aside .advert {
+    background: #cac900;
+    align-self: center;
+    align-items: center;
+    height: 48.5%;
+    padding: 20px 40px;
+}
+
+
+.widgets .widget {
+    background: #4F5EF5;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+footer {
+    background: #232532;
+    padding: 20px;
+    margin-top: 20px;
+}
